@@ -1,15 +1,11 @@
-<table width="100%">
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <img src="assets/ibn_tofail_logo.png" alt="Université Ibn Tofaïl" height="110" />
-    </td>
-    <td align="right" valign="top" width="50%">
-      <img src="assets/centre_excellence_logo.png" alt="Centre d’excellence automobile et aéronautique" height="110" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="assets/ibn_tofail_logo.png" align="left" height="220" />
+  <img src="assets/centre_excellence_logo.png" align="right" height="220" />
+</div>
 
-# AI Techniques — Travaux pratiques (TP1 & TP2)
+<br clear="both"/>
+
+# AI Techniques: Travaux pratiques (TP1 & TP2)
 
 Ce dépôt contient les travaux pratiques du cours **Techniques d’intelligence artificielle**, assuré par la Prof. **Khadija LEKDIOUI**. Les exercices mettent en pratique les concepts et méthodes vus en cours.
 
